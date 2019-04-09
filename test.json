@@ -1,1 +1,10 @@
-{}
+{
+	"title": "Hello World Mein test",
+	"subtitle": "Bye bye World Mein Einstieg",
+	"list": [
+		"Kamm",
+		"Apfel",
+		"Birne",
+		"Atom"
+	]
+}
