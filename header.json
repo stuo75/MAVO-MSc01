@@ -3,8 +3,14 @@
 		{
 			"title": "Titel 1",
 			"date": "09. April 2019",
-			"description": "Das dlfkjsdaljf aslfjalfj dlafj lkasjfl ksdafddasf dsaf jlasdkjf lökasjf löasdjf ödlsfj lsadkjflö asdjflaö aölskjf löasdj fljaksdfl kösdajf klasdjf lksdjflk sdaj flkasdjfl ksadjfasdö fasd fasdf sdaf sda."
+			"description": "Das dlfkjsdaljf aslfjalfj dlafj lkasjfl ksdafddasf dsaf jlasdkjf lökasjf löasdjf ödlsfj lsadkjflö asdjflaö aölskjf löasdj fljaksdfl kösdajf klasdjf lksdjflk sdaj flkasdjfl ksadjfasdö fasd fasdf sdaf sda.",
+			"image": "https://cdn.rawgit.com/stuo75/MAVO-MSc01/f1f893bc1a968b11a230c7b9790b6f0378116766/images/maine_coon.jpg"
 		},
-		{}
+		{
+			"image": "https://picsum.photos/500/200?random"
+		},
+		{
+			"image": "https://picsum.photos/500?random"
+		}
 	]
 }
